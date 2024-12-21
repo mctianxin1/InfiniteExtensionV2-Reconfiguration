@@ -4,3 +4,5 @@
 - 视频连接下方
 - https://b23.tv/W3oOvWj
 - 感谢游玩
+- 前置插件:
+  - InfinityExpansion<无尽科技>
